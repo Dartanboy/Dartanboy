@@ -1,7 +1,7 @@
 Hey, there. I'm Dartanboy. I'm a full stack software engineer but I mostly focus on Minecraft Java Plugin Development.
 
 Experience:
-- 3+ Full Stack Development at Fortune 500 companies such as John Deere.
+- 3+ years Full Stack Development at Fortune 500 companies such as John Deere.
 - 9+ years developing plugins with Bukkit/Spigot, including work for large servers such as DemocracyCraft.
 - Four-year degree in Computer Science.
 
