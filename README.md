@@ -9,3 +9,5 @@ Skills:
 - Software Development
   - I am particularly familiar with Java, Python, and C#, but can pick up most languages.
   - Some other tools and frameworks I'm familiar with include JUnit, Spring, NodeJS, React, Gradle, Maven, Git, Flask, Airflow, Jenkins, GitHub Actions, Selenium, and TailwindCSS.
+- Communication
+  - I am a native English speaker, an excellent communicator, and am able to translate technical language to a non-technical client.
